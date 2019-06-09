@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yilin Lyu"
 title_separator          : "-"
 name                     : &name "Yilin Lyu"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
+description              : &description "Data Scientist, Pricing Optimization, Wayfair"
 url                      : https://yl3832.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yl3832/yl3832.github.io"
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
-  avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  name             : "Yilin Lyu"
+  avatar           : "1676849753.jpg"
+  bio              : "Data Scientist, Pricing Optimization, Wayfair"
+  location         : "Wayfair"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=QyIuqXcAAAAJ&hl=en&oi=ao"
+  email            : "yl3832@columbia.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : "yl3832"
   google_plus      :
   keybase          :
   instagram        : 
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

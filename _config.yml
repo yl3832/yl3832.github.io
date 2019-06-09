@@ -83,7 +83,7 @@ author:
   location         : "Wayfair"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=QyIuqXcAAAAJ&hl=en&oi=ao"
-  email            : "yl3832@columbia.edu"
+  email            : &email "yl3832@columbia.edu"
   uri              : 
   bitbucket        :
   codepen          :
